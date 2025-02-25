@@ -6,8 +6,8 @@ body {
 }
 
 #board {
-    width: 540px;
-    height: 540px;
+    width: 640px;
+    height: 640px;
     /* background-color: green; */
 
     margin: 0 auto;
